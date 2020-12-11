@@ -117,7 +117,7 @@ const moveSnake = () => {
     clearInterval(moveSnakeInterval);
     if (
       !alert(
-        `You have ate ${totalFoodAte} food by travelling ${totalDistanceTravelled} blocks.`
+        `Hai mangiato ${totalFoodAte} Cibo mangiato viaggiando ${totalDistanceTravelled} blocchi.`
       )
     )
       window.location.reload();
