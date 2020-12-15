@@ -43,7 +43,7 @@ const DOWN_DIR = 40;
 const LEFT_DIR = 65;
 const UP_DIR = 87;
 const RIGHT_DIR = 68;
-cons5 DOWN_DIR = 83;
+const DOWN_DIR = 83;
 
 // Set snake direction initially to right
 let snakeCurrentDirection = RIGHT_DIR;
